@@ -1,0 +1,16 @@
+{
+  "name": "super-awesome-important-website",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TIY-Austin-Front-End-Engineering/super-awesome-important-website",
+  "authors": [
+    "Aaron Larner <anlarner@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
